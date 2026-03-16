@@ -54,7 +54,7 @@
 
 <p align="center">
 
-<img src="https://github.com/babon22/babon22/blob/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/babon22/babon22/output/dist/github-contribution-grid-snake.svg" />
 
 </p>
 
